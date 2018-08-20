@@ -18,7 +18,7 @@ public class Main {
         
         int keepGoing = 1000;
         int sum = 0;
-        boolean add = false; //This is a test
+        boolean add = false;
         while(keepGoing != 0){
             System.out.print(keepGoing);
             if(keepGoing % 3 == 0){
