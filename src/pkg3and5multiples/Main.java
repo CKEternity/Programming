@@ -41,7 +41,7 @@ public class Main {
             add = false;
             keepGoing--;
         }
-        
+        //Test
         System.out.println("The total is " + sum);
         
     }
